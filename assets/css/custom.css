@@ -1,0 +1,18 @@
+.down-content h4 {
+  text-align: center;
+  color: blue;
+  margin: auto;
+  padding-top: 20px;
+}
+.chucvu {
+  color: red;
+  text-align: center;
+  padding: 10px;
+}
+.down-content p {
+  text-align: center;
+  padding-bottom: 40px;
+}
+#noidung {
+  background-color: red;
+}
